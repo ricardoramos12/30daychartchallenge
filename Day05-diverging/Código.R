@@ -17,7 +17,12 @@ data_diff <- data %>%
   pivot_wider(names_from = branch, values_from = sales) %>%
   mutate(divergence = `Sucursal A` - `Sucursal B`)
 
-# Graficar la divergencia en ventas entre las sucursales
+# Convertir la columna 'month' en un factor ordenado
+data_diff <- data_diff %>%
+  mutate(month = factor(month, levels = c("Jan", "Feb", "Mar", "Apr", "May", "Jun", 
+                                          "Jul", "Aug", "Sep", "Oct", "Nov", "Dec")))
+
+# Graficar la divergencia en ventas entre las sucursales con el eje X ordenado
 ggplot(data_diff, aes(x = month, y = divergence)) +
   geom_bar(stat = "identity", aes(fill = divergence > 0), width = 0.6) +
   geom_text(aes(label = round(divergence, 1)), 
