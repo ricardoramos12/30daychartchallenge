@@ -1,0 +1,2401 @@
+hora,tipo_app,sesiones
+0,Mensajería,14
+0,Mensajería,7
+0,Redes Sociales,1
+0,Redes Sociales,7
+0,Redes Sociales,11
+0,Mensajería,7
+0,Redes Sociales,1
+0,Mensajería,1
+0,Mensajería,15
+0,Mensajería,2
+0,Juego,6
+0,Mensajería,2
+0,Redes Sociales,15
+0,Juego,4
+0,Redes Sociales,12
+0,Juego,8
+0,Juego,4
+0,Redes Sociales,6
+0,Mensajería,1
+0,Redes Sociales,5
+0,Juego,12
+0,Juego,13
+0,Juego,8
+0,Mensajería,7
+0,Mensajería,15
+0,Juego,12
+0,Juego,12
+0,Juego,10
+0,Mensajería,8
+0,Redes Sociales,7
+0,Mensajería,12
+0,Juego,1
+0,Mensajería,15
+0,Mensajería,8
+0,Juego,2
+0,Mensajería,1
+0,Redes Sociales,10
+0,Juego,14
+0,Redes Sociales,4
+0,Juego,10
+0,Redes Sociales,1
+0,Redes Sociales,12
+0,Redes Sociales,13
+0,Mensajería,12
+0,Redes Sociales,5
+0,Mensajería,6
+0,Juego,9
+0,Redes Sociales,5
+0,Mensajería,13
+0,Mensajería,3
+0,Redes Sociales,10
+0,Mensajería,15
+0,Juego,11
+0,Redes Sociales,6
+0,Redes Sociales,13
+0,Juego,2
+0,Mensajería,5
+0,Mensajería,15
+0,Redes Sociales,4
+0,Mensajería,15
+0,Mensajería,13
+0,Mensajería,9
+0,Redes Sociales,15
+0,Mensajería,11
+0,Redes Sociales,15
+0,Juego,2
+0,Juego,14
+0,Juego,4
+0,Mensajería,12
+0,Juego,10
+0,Juego,12
+0,Juego,4
+0,Juego,1
+0,Juego,4
+0,Juego,8
+0,Juego,13
+0,Juego,12
+0,Redes Sociales,11
+0,Mensajería,2
+0,Redes Sociales,13
+0,Redes Sociales,1
+0,Redes Sociales,9
+0,Mensajería,7
+0,Juego,13
+0,Juego,4
+0,Mensajería,15
+0,Redes Sociales,3
+0,Juego,5
+0,Redes Sociales,12
+0,Redes Sociales,6
+0,Redes Sociales,11
+0,Juego,13
+0,Mensajería,5
+0,Redes Sociales,10
+0,Juego,12
+0,Redes Sociales,12
+0,Mensajería,10
+0,Mensajería,11
+0,Redes Sociales,13
+0,Juego,7
+1,Mensajería,10
+1,Mensajería,14
+1,Juego,2
+1,Juego,5
+1,Redes Sociales,1
+1,Redes Sociales,11
+1,Juego,6
+1,Juego,12
+1,Redes Sociales,14
+1,Redes Sociales,8
+1,Juego,4
+1,Mensajería,9
+1,Mensajería,12
+1,Redes Sociales,11
+1,Juego,14
+1,Redes Sociales,2
+1,Redes Sociales,12
+1,Mensajería,10
+1,Mensajería,11
+1,Juego,10
+1,Juego,15
+1,Redes Sociales,6
+1,Juego,3
+1,Redes Sociales,2
+1,Mensajería,10
+1,Juego,6
+1,Redes Sociales,3
+1,Juego,5
+1,Mensajería,11
+1,Redes Sociales,7
+1,Mensajería,1
+1,Redes Sociales,6
+1,Redes Sociales,15
+1,Mensajería,3
+1,Juego,1
+1,Mensajería,11
+1,Juego,5
+1,Juego,11
+1,Redes Sociales,1
+1,Mensajería,15
+1,Redes Sociales,15
+1,Redes Sociales,12
+1,Redes Sociales,13
+1,Mensajería,3
+1,Juego,15
+1,Juego,12
+1,Redes Sociales,15
+1,Mensajería,10
+1,Mensajería,5
+1,Mensajería,7
+1,Juego,15
+1,Mensajería,11
+1,Redes Sociales,11
+1,Redes Sociales,4
+1,Mensajería,13
+1,Juego,1
+1,Redes Sociales,4
+1,Redes Sociales,10
+1,Juego,13
+1,Mensajería,8
+1,Redes Sociales,15
+1,Mensajería,14
+1,Redes Sociales,12
+1,Mensajería,2
+1,Redes Sociales,8
+1,Redes Sociales,8
+1,Juego,4
+1,Redes Sociales,3
+1,Redes Sociales,1
+1,Redes Sociales,11
+1,Mensajería,11
+1,Mensajería,9
+1,Juego,12
+1,Redes Sociales,11
+1,Juego,5
+1,Mensajería,4
+1,Juego,10
+1,Mensajería,13
+1,Juego,2
+1,Redes Sociales,14
+1,Juego,9
+1,Redes Sociales,8
+1,Redes Sociales,11
+1,Redes Sociales,9
+1,Mensajería,1
+1,Redes Sociales,3
+1,Redes Sociales,15
+1,Juego,15
+1,Juego,8
+1,Redes Sociales,4
+1,Redes Sociales,8
+1,Redes Sociales,13
+1,Juego,12
+1,Juego,6
+1,Juego,10
+1,Juego,9
+1,Mensajería,11
+1,Redes Sociales,12
+1,Juego,4
+1,Mensajería,7
+2,Mensajería,11
+2,Mensajería,13
+2,Juego,3
+2,Mensajería,10
+2,Redes Sociales,13
+2,Redes Sociales,10
+2,Redes Sociales,13
+2,Redes Sociales,1
+2,Mensajería,3
+2,Redes Sociales,10
+2,Juego,1
+2,Mensajería,5
+2,Redes Sociales,5
+2,Redes Sociales,2
+2,Mensajería,12
+2,Redes Sociales,9
+2,Redes Sociales,4
+2,Juego,7
+2,Mensajería,8
+2,Redes Sociales,14
+2,Redes Sociales,11
+2,Juego,1
+2,Juego,14
+2,Mensajería,15
+2,Juego,14
+2,Mensajería,10
+2,Redes Sociales,2
+2,Juego,8
+2,Redes Sociales,4
+2,Redes Sociales,15
+2,Juego,13
+2,Juego,7
+2,Redes Sociales,10
+2,Mensajería,13
+2,Mensajería,2
+2,Redes Sociales,15
+2,Mensajería,9
+2,Redes Sociales,3
+2,Redes Sociales,1
+2,Juego,4
+2,Juego,14
+2,Mensajería,13
+2,Mensajería,3
+2,Mensajería,13
+2,Juego,14
+2,Juego,11
+2,Redes Sociales,6
+2,Juego,10
+2,Redes Sociales,4
+2,Redes Sociales,5
+2,Juego,14
+2,Juego,9
+2,Juego,14
+2,Redes Sociales,13
+2,Juego,10
+2,Juego,9
+2,Juego,6
+2,Redes Sociales,3
+2,Mensajería,2
+2,Redes Sociales,14
+2,Redes Sociales,11
+2,Mensajería,15
+2,Juego,9
+2,Mensajería,12
+2,Mensajería,4
+2,Juego,11
+2,Mensajería,1
+2,Juego,8
+2,Mensajería,10
+2,Mensajería,3
+2,Mensajería,4
+2,Mensajería,6
+2,Redes Sociales,9
+2,Mensajería,13
+2,Redes Sociales,3
+2,Mensajería,10
+2,Mensajería,12
+2,Mensajería,5
+2,Juego,4
+2,Mensajería,13
+2,Mensajería,9
+2,Redes Sociales,11
+2,Redes Sociales,9
+2,Redes Sociales,13
+2,Mensajería,6
+2,Mensajería,1
+2,Juego,2
+2,Juego,14
+2,Juego,15
+2,Mensajería,7
+2,Mensajería,14
+2,Mensajería,14
+2,Redes Sociales,9
+2,Redes Sociales,4
+2,Mensajería,4
+2,Juego,13
+2,Mensajería,9
+2,Mensajería,11
+2,Redes Sociales,11
+2,Redes Sociales,2
+3,Redes Sociales,8
+3,Mensajería,8
+3,Redes Sociales,2
+3,Juego,9
+3,Juego,3
+3,Redes Sociales,13
+3,Mensajería,15
+3,Juego,11
+3,Mensajería,8
+3,Juego,2
+3,Mensajería,8
+3,Juego,10
+3,Mensajería,1
+3,Redes Sociales,6
+3,Redes Sociales,3
+3,Juego,12
+3,Mensajería,14
+3,Juego,7
+3,Redes Sociales,3
+3,Mensajería,9
+3,Redes Sociales,13
+3,Redes Sociales,11
+3,Juego,13
+3,Redes Sociales,5
+3,Mensajería,12
+3,Redes Sociales,14
+3,Redes Sociales,5
+3,Juego,14
+3,Juego,5
+3,Mensajería,12
+3,Redes Sociales,7
+3,Redes Sociales,3
+3,Juego,3
+3,Juego,8
+3,Juego,2
+3,Juego,11
+3,Redes Sociales,5
+3,Mensajería,1
+3,Juego,14
+3,Mensajería,4
+3,Mensajería,9
+3,Mensajería,5
+3,Redes Sociales,11
+3,Juego,3
+3,Mensajería,15
+3,Mensajería,15
+3,Juego,9
+3,Mensajería,3
+3,Mensajería,7
+3,Juego,11
+3,Juego,2
+3,Juego,7
+3,Juego,13
+3,Juego,15
+3,Mensajería,6
+3,Mensajería,8
+3,Mensajería,10
+3,Mensajería,8
+3,Juego,6
+3,Redes Sociales,6
+3,Mensajería,2
+3,Mensajería,4
+3,Mensajería,6
+3,Juego,6
+3,Mensajería,1
+3,Juego,10
+3,Redes Sociales,2
+3,Juego,15
+3,Juego,3
+3,Juego,6
+3,Mensajería,12
+3,Redes Sociales,11
+3,Redes Sociales,12
+3,Redes Sociales,15
+3,Mensajería,8
+3,Redes Sociales,2
+3,Redes Sociales,2
+3,Mensajería,6
+3,Juego,14
+3,Juego,14
+3,Juego,3
+3,Juego,14
+3,Redes Sociales,11
+3,Juego,7
+3,Juego,6
+3,Redes Sociales,15
+3,Mensajería,8
+3,Mensajería,8
+3,Mensajería,12
+3,Juego,15
+3,Juego,3
+3,Mensajería,13
+3,Redes Sociales,13
+3,Juego,11
+3,Mensajería,3
+3,Mensajería,13
+3,Redes Sociales,7
+3,Juego,7
+3,Mensajería,3
+3,Juego,14
+4,Mensajería,4
+4,Mensajería,7
+4,Mensajería,3
+4,Redes Sociales,8
+4,Juego,1
+4,Redes Sociales,1
+4,Mensajería,4
+4,Mensajería,14
+4,Redes Sociales,8
+4,Redes Sociales,3
+4,Redes Sociales,12
+4,Juego,4
+4,Juego,6
+4,Redes Sociales,8
+4,Mensajería,9
+4,Mensajería,10
+4,Juego,13
+4,Juego,4
+4,Redes Sociales,8
+4,Juego,8
+4,Juego,13
+4,Juego,7
+4,Redes Sociales,7
+4,Juego,4
+4,Juego,13
+4,Redes Sociales,13
+4,Juego,8
+4,Mensajería,15
+4,Redes Sociales,10
+4,Mensajería,14
+4,Redes Sociales,11
+4,Juego,6
+4,Juego,6
+4,Mensajería,2
+4,Mensajería,13
+4,Mensajería,5
+4,Juego,9
+4,Redes Sociales,3
+4,Redes Sociales,5
+4,Redes Sociales,2
+4,Redes Sociales,12
+4,Mensajería,9
+4,Redes Sociales,9
+4,Redes Sociales,12
+4,Mensajería,9
+4,Mensajería,8
+4,Juego,1
+4,Juego,12
+4,Juego,4
+4,Juego,11
+4,Mensajería,9
+4,Redes Sociales,9
+4,Juego,1
+4,Mensajería,11
+4,Juego,8
+4,Juego,12
+4,Mensajería,5
+4,Juego,9
+4,Juego,2
+4,Mensajería,1
+4,Mensajería,4
+4,Mensajería,5
+4,Juego,10
+4,Mensajería,10
+4,Redes Sociales,7
+4,Juego,11
+4,Redes Sociales,8
+4,Juego,14
+4,Redes Sociales,9
+4,Juego,7
+4,Mensajería,1
+4,Redes Sociales,13
+4,Mensajería,10
+4,Redes Sociales,9
+4,Mensajería,13
+4,Juego,6
+4,Redes Sociales,4
+4,Juego,1
+4,Mensajería,14
+4,Mensajería,10
+4,Juego,1
+4,Redes Sociales,2
+4,Juego,1
+4,Juego,6
+4,Mensajería,9
+4,Juego,3
+4,Mensajería,1
+4,Juego,14
+4,Juego,9
+4,Mensajería,8
+4,Juego,7
+4,Redes Sociales,4
+4,Mensajería,5
+4,Redes Sociales,12
+4,Redes Sociales,14
+4,Redes Sociales,12
+4,Redes Sociales,13
+4,Juego,14
+4,Mensajería,6
+4,Redes Sociales,2
+5,Redes Sociales,4
+5,Mensajería,1
+5,Redes Sociales,13
+5,Mensajería,13
+5,Mensajería,1
+5,Mensajería,11
+5,Redes Sociales,9
+5,Redes Sociales,2
+5,Juego,3
+5,Juego,12
+5,Redes Sociales,7
+5,Juego,15
+5,Mensajería,8
+5,Redes Sociales,9
+5,Mensajería,1
+5,Mensajería,10
+5,Mensajería,11
+5,Juego,3
+5,Juego,5
+5,Mensajería,4
+5,Redes Sociales,1
+5,Mensajería,15
+5,Mensajería,15
+5,Redes Sociales,2
+5,Mensajería,10
+5,Redes Sociales,4
+5,Juego,4
+5,Juego,11
+5,Redes Sociales,5
+5,Juego,4
+5,Mensajería,14
+5,Juego,12
+5,Redes Sociales,8
+5,Redes Sociales,10
+5,Redes Sociales,7
+5,Juego,11
+5,Redes Sociales,13
+5,Mensajería,1
+5,Mensajería,11
+5,Redes Sociales,14
+5,Redes Sociales,15
+5,Juego,15
+5,Juego,4
+5,Juego,9
+5,Mensajería,9
+5,Redes Sociales,7
+5,Mensajería,5
+5,Redes Sociales,4
+5,Mensajería,15
+5,Redes Sociales,5
+5,Mensajería,9
+5,Juego,9
+5,Redes Sociales,4
+5,Redes Sociales,1
+5,Juego,10
+5,Redes Sociales,3
+5,Juego,8
+5,Juego,2
+5,Redes Sociales,12
+5,Mensajería,5
+5,Mensajería,9
+5,Redes Sociales,1
+5,Mensajería,7
+5,Redes Sociales,1
+5,Mensajería,1
+5,Mensajería,15
+5,Mensajería,5
+5,Juego,15
+5,Redes Sociales,15
+5,Juego,15
+5,Juego,3
+5,Juego,5
+5,Redes Sociales,8
+5,Mensajería,10
+5,Mensajería,10
+5,Redes Sociales,15
+5,Mensajería,10
+5,Juego,6
+5,Redes Sociales,1
+5,Redes Sociales,13
+5,Juego,14
+5,Mensajería,10
+5,Redes Sociales,3
+5,Redes Sociales,3
+5,Mensajería,7
+5,Redes Sociales,15
+5,Juego,8
+5,Redes Sociales,5
+5,Juego,2
+5,Mensajería,5
+5,Juego,4
+5,Juego,3
+5,Mensajería,4
+5,Redes Sociales,1
+5,Juego,4
+5,Redes Sociales,1
+5,Juego,12
+5,Juego,8
+5,Redes Sociales,14
+5,Redes Sociales,5
+6,Redes Sociales,4
+6,Mensajería,12
+6,Mensajería,1
+6,Mensajería,5
+6,Juego,11
+6,Mensajería,2
+6,Juego,12
+6,Mensajería,13
+6,Juego,2
+6,Mensajería,8
+6,Mensajería,13
+6,Redes Sociales,13
+6,Redes Sociales,13
+6,Redes Sociales,5
+6,Redes Sociales,6
+6,Juego,3
+6,Juego,1
+6,Redes Sociales,8
+6,Mensajería,13
+6,Juego,14
+6,Mensajería,11
+6,Redes Sociales,13
+6,Redes Sociales,1
+6,Juego,9
+6,Juego,6
+6,Juego,8
+6,Juego,7
+6,Mensajería,2
+6,Juego,10
+6,Redes Sociales,15
+6,Juego,3
+6,Juego,13
+6,Mensajería,6
+6,Juego,11
+6,Redes Sociales,7
+6,Redes Sociales,7
+6,Mensajería,1
+6,Redes Sociales,6
+6,Juego,13
+6,Mensajería,2
+6,Redes Sociales,15
+6,Juego,1
+6,Mensajería,10
+6,Juego,2
+6,Juego,1
+6,Juego,2
+6,Redes Sociales,3
+6,Redes Sociales,8
+6,Juego,8
+6,Mensajería,2
+6,Juego,5
+6,Mensajería,5
+6,Mensajería,14
+6,Redes Sociales,15
+6,Juego,3
+6,Redes Sociales,12
+6,Mensajería,6
+6,Juego,8
+6,Mensajería,9
+6,Mensajería,15
+6,Juego,8
+6,Juego,13
+6,Redes Sociales,5
+6,Mensajería,5
+6,Redes Sociales,10
+6,Mensajería,14
+6,Mensajería,15
+6,Mensajería,9
+6,Redes Sociales,15
+6,Mensajería,11
+6,Redes Sociales,1
+6,Redes Sociales,11
+6,Juego,4
+6,Juego,12
+6,Juego,11
+6,Juego,4
+6,Juego,12
+6,Redes Sociales,14
+6,Redes Sociales,1
+6,Juego,13
+6,Juego,5
+6,Juego,14
+6,Redes Sociales,11
+6,Redes Sociales,13
+6,Mensajería,15
+6,Redes Sociales,15
+6,Mensajería,3
+6,Juego,7
+6,Juego,7
+6,Mensajería,7
+6,Redes Sociales,12
+6,Mensajería,8
+6,Juego,4
+6,Mensajería,1
+6,Mensajería,7
+6,Mensajería,1
+6,Juego,5
+6,Mensajería,5
+6,Mensajería,7
+6,Juego,6
+7,Redes Sociales,6
+7,Redes Sociales,3
+7,Mensajería,8
+7,Redes Sociales,10
+7,Redes Sociales,5
+7,Mensajería,10
+7,Mensajería,3
+7,Redes Sociales,8
+7,Juego,8
+7,Juego,7
+7,Juego,10
+7,Redes Sociales,9
+7,Mensajería,9
+7,Redes Sociales,8
+7,Mensajería,5
+7,Mensajería,11
+7,Mensajería,11
+7,Juego,1
+7,Juego,14
+7,Juego,9
+7,Juego,4
+7,Juego,10
+7,Juego,14
+7,Redes Sociales,1
+7,Redes Sociales,8
+7,Mensajería,9
+7,Redes Sociales,5
+7,Juego,2
+7,Mensajería,10
+7,Redes Sociales,12
+7,Redes Sociales,13
+7,Mensajería,10
+7,Juego,2
+7,Redes Sociales,12
+7,Mensajería,12
+7,Mensajería,8
+7,Mensajería,1
+7,Redes Sociales,7
+7,Juego,13
+7,Mensajería,3
+7,Redes Sociales,8
+7,Juego,13
+7,Juego,8
+7,Redes Sociales,8
+7,Mensajería,6
+7,Juego,7
+7,Redes Sociales,12
+7,Redes Sociales,8
+7,Mensajería,11
+7,Redes Sociales,15
+7,Redes Sociales,4
+7,Juego,7
+7,Redes Sociales,4
+7,Mensajería,14
+7,Redes Sociales,2
+7,Juego,5
+7,Mensajería,4
+7,Redes Sociales,15
+7,Juego,13
+7,Juego,2
+7,Mensajería,3
+7,Redes Sociales,6
+7,Redes Sociales,12
+7,Mensajería,7
+7,Redes Sociales,10
+7,Juego,5
+7,Juego,13
+7,Mensajería,14
+7,Mensajería,2
+7,Juego,13
+7,Redes Sociales,8
+7,Redes Sociales,11
+7,Redes Sociales,8
+7,Mensajería,9
+7,Redes Sociales,8
+7,Juego,4
+7,Juego,2
+7,Mensajería,3
+7,Juego,11
+7,Juego,2
+7,Mensajería,13
+7,Juego,6
+7,Juego,7
+7,Redes Sociales,13
+7,Juego,3
+7,Redes Sociales,9
+7,Redes Sociales,12
+7,Redes Sociales,5
+7,Juego,13
+7,Juego,5
+7,Juego,3
+7,Mensajería,1
+7,Redes Sociales,6
+7,Redes Sociales,13
+7,Juego,8
+7,Juego,11
+7,Juego,2
+7,Redes Sociales,8
+7,Redes Sociales,3
+7,Mensajería,14
+8,Juego,9
+8,Juego,14
+8,Redes Sociales,14
+8,Redes Sociales,10
+8,Redes Sociales,15
+8,Juego,2
+8,Juego,6
+8,Mensajería,14
+8,Redes Sociales,14
+8,Redes Sociales,14
+8,Juego,13
+8,Juego,3
+8,Redes Sociales,14
+8,Redes Sociales,13
+8,Redes Sociales,6
+8,Juego,1
+8,Redes Sociales,9
+8,Mensajería,15
+8,Mensajería,13
+8,Redes Sociales,8
+8,Juego,10
+8,Redes Sociales,11
+8,Juego,14
+8,Redes Sociales,12
+8,Juego,9
+8,Juego,12
+8,Mensajería,6
+8,Mensajería,1
+8,Redes Sociales,3
+8,Redes Sociales,9
+8,Juego,5
+8,Redes Sociales,11
+8,Mensajería,1
+8,Redes Sociales,4
+8,Juego,14
+8,Mensajería,3
+8,Redes Sociales,6
+8,Redes Sociales,11
+8,Juego,3
+8,Redes Sociales,13
+8,Redes Sociales,7
+8,Mensajería,6
+8,Mensajería,3
+8,Juego,1
+8,Juego,6
+8,Redes Sociales,14
+8,Juego,2
+8,Mensajería,14
+8,Juego,6
+8,Juego,11
+8,Juego,13
+8,Redes Sociales,6
+8,Juego,1
+8,Juego,3
+8,Juego,2
+8,Redes Sociales,7
+8,Redes Sociales,11
+8,Redes Sociales,1
+8,Redes Sociales,11
+8,Juego,9
+8,Redes Sociales,6
+8,Redes Sociales,11
+8,Juego,14
+8,Juego,7
+8,Mensajería,1
+8,Mensajería,1
+8,Redes Sociales,12
+8,Juego,10
+8,Mensajería,4
+8,Juego,4
+8,Redes Sociales,8
+8,Juego,11
+8,Juego,8
+8,Juego,15
+8,Mensajería,1
+8,Redes Sociales,10
+8,Juego,7
+8,Juego,6
+8,Mensajería,7
+8,Juego,8
+8,Redes Sociales,7
+8,Juego,1
+8,Redes Sociales,13
+8,Redes Sociales,8
+8,Juego,6
+8,Mensajería,5
+8,Juego,15
+8,Redes Sociales,1
+8,Juego,12
+8,Mensajería,14
+8,Redes Sociales,7
+8,Redes Sociales,10
+8,Juego,9
+8,Redes Sociales,5
+8,Redes Sociales,4
+8,Juego,10
+8,Mensajería,1
+8,Mensajería,10
+8,Mensajería,12
+8,Juego,1
+9,Redes Sociales,9
+9,Redes Sociales,1
+9,Redes Sociales,3
+9,Juego,7
+9,Redes Sociales,1
+9,Juego,1
+9,Juego,9
+9,Mensajería,7
+9,Mensajería,10
+9,Redes Sociales,15
+9,Redes Sociales,7
+9,Mensajería,9
+9,Mensajería,7
+9,Redes Sociales,5
+9,Redes Sociales,8
+9,Redes Sociales,11
+9,Juego,1
+9,Mensajería,8
+9,Juego,8
+9,Mensajería,5
+9,Juego,11
+9,Redes Sociales,12
+9,Redes Sociales,11
+9,Redes Sociales,11
+9,Redes Sociales,1
+9,Mensajería,10
+9,Mensajería,7
+9,Juego,3
+9,Mensajería,2
+9,Mensajería,10
+9,Redes Sociales,15
+9,Mensajería,5
+9,Mensajería,5
+9,Redes Sociales,15
+9,Mensajería,12
+9,Juego,12
+9,Redes Sociales,14
+9,Mensajería,15
+9,Juego,1
+9,Redes Sociales,13
+9,Redes Sociales,10
+9,Mensajería,8
+9,Redes Sociales,11
+9,Mensajería,8
+9,Juego,2
+9,Redes Sociales,9
+9,Mensajería,13
+9,Juego,4
+9,Redes Sociales,4
+9,Juego,11
+9,Juego,4
+9,Mensajería,10
+9,Mensajería,8
+9,Juego,14
+9,Juego,1
+9,Redes Sociales,2
+9,Redes Sociales,9
+9,Juego,12
+9,Juego,13
+9,Mensajería,15
+9,Juego,15
+9,Juego,1
+9,Mensajería,7
+9,Redes Sociales,3
+9,Juego,2
+9,Redes Sociales,11
+9,Mensajería,15
+9,Juego,7
+9,Juego,8
+9,Juego,9
+9,Mensajería,4
+9,Redes Sociales,10
+9,Mensajería,3
+9,Juego,5
+9,Redes Sociales,13
+9,Redes Sociales,2
+9,Mensajería,4
+9,Redes Sociales,5
+9,Mensajería,11
+9,Mensajería,12
+9,Mensajería,1
+9,Redes Sociales,2
+9,Juego,13
+9,Juego,15
+9,Mensajería,11
+9,Mensajería,10
+9,Juego,15
+9,Redes Sociales,12
+9,Mensajería,15
+9,Mensajería,11
+9,Juego,6
+9,Mensajería,6
+9,Redes Sociales,2
+9,Redes Sociales,6
+9,Redes Sociales,12
+9,Juego,15
+9,Redes Sociales,11
+9,Juego,8
+9,Mensajería,12
+9,Redes Sociales,6
+10,Juego,4
+10,Mensajería,8
+10,Juego,10
+10,Mensajería,14
+10,Juego,1
+10,Mensajería,8
+10,Juego,1
+10,Mensajería,5
+10,Juego,11
+10,Mensajería,10
+10,Juego,10
+10,Juego,6
+10,Mensajería,3
+10,Juego,1
+10,Juego,2
+10,Redes Sociales,13
+10,Juego,15
+10,Juego,12
+10,Redes Sociales,14
+10,Juego,6
+10,Juego,5
+10,Mensajería,6
+10,Juego,5
+10,Redes Sociales,11
+10,Redes Sociales,2
+10,Mensajería,9
+10,Redes Sociales,10
+10,Juego,10
+10,Redes Sociales,7
+10,Mensajería,14
+10,Redes Sociales,11
+10,Juego,12
+10,Mensajería,6
+10,Redes Sociales,13
+10,Juego,3
+10,Mensajería,5
+10,Juego,1
+10,Redes Sociales,14
+10,Redes Sociales,7
+10,Juego,2
+10,Redes Sociales,6
+10,Mensajería,8
+10,Redes Sociales,5
+10,Juego,13
+10,Redes Sociales,2
+10,Juego,8
+10,Redes Sociales,11
+10,Redes Sociales,8
+10,Mensajería,2
+10,Mensajería,14
+10,Mensajería,7
+10,Redes Sociales,8
+10,Mensajería,6
+10,Juego,4
+10,Mensajería,2
+10,Redes Sociales,5
+10,Redes Sociales,4
+10,Juego,14
+10,Mensajería,1
+10,Redes Sociales,3
+10,Juego,11
+10,Mensajería,5
+10,Juego,8
+10,Mensajería,15
+10,Mensajería,8
+10,Redes Sociales,15
+10,Redes Sociales,11
+10,Redes Sociales,13
+10,Mensajería,14
+10,Redes Sociales,8
+10,Juego,5
+10,Juego,2
+10,Juego,15
+10,Mensajería,7
+10,Redes Sociales,2
+10,Juego,4
+10,Mensajería,11
+10,Redes Sociales,15
+10,Juego,10
+10,Mensajería,11
+10,Redes Sociales,15
+10,Mensajería,3
+10,Juego,12
+10,Juego,7
+10,Redes Sociales,10
+10,Redes Sociales,9
+10,Mensajería,2
+10,Mensajería,6
+10,Mensajería,13
+10,Juego,2
+10,Redes Sociales,15
+10,Redes Sociales,12
+10,Redes Sociales,12
+10,Juego,5
+10,Redes Sociales,3
+10,Mensajería,5
+10,Mensajería,9
+10,Mensajería,7
+10,Juego,3
+10,Juego,14
+11,Redes Sociales,2
+11,Juego,12
+11,Mensajería,1
+11,Redes Sociales,13
+11,Redes Sociales,11
+11,Redes Sociales,13
+11,Mensajería,2
+11,Juego,1
+11,Juego,11
+11,Mensajería,8
+11,Redes Sociales,12
+11,Juego,15
+11,Mensajería,8
+11,Redes Sociales,12
+11,Redes Sociales,10
+11,Mensajería,5
+11,Mensajería,7
+11,Redes Sociales,3
+11,Redes Sociales,12
+11,Mensajería,11
+11,Juego,6
+11,Redes Sociales,2
+11,Redes Sociales,2
+11,Redes Sociales,4
+11,Redes Sociales,11
+11,Mensajería,5
+11,Redes Sociales,8
+11,Redes Sociales,15
+11,Mensajería,7
+11,Mensajería,14
+11,Juego,10
+11,Juego,11
+11,Redes Sociales,2
+11,Juego,9
+11,Mensajería,6
+11,Mensajería,8
+11,Redes Sociales,14
+11,Redes Sociales,5
+11,Redes Sociales,9
+11,Mensajería,11
+11,Redes Sociales,10
+11,Juego,14
+11,Juego,9
+11,Redes Sociales,11
+11,Redes Sociales,14
+11,Juego,11
+11,Juego,8
+11,Juego,8
+11,Juego,13
+11,Mensajería,13
+11,Juego,7
+11,Redes Sociales,1
+11,Mensajería,10
+11,Juego,6
+11,Mensajería,11
+11,Mensajería,5
+11,Juego,13
+11,Redes Sociales,9
+11,Redes Sociales,13
+11,Redes Sociales,10
+11,Mensajería,2
+11,Redes Sociales,11
+11,Mensajería,11
+11,Mensajería,12
+11,Redes Sociales,15
+11,Juego,6
+11,Juego,10
+11,Juego,1
+11,Mensajería,5
+11,Mensajería,10
+11,Juego,5
+11,Juego,5
+11,Juego,11
+11,Redes Sociales,10
+11,Juego,4
+11,Redes Sociales,11
+11,Juego,2
+11,Mensajería,14
+11,Juego,3
+11,Mensajería,10
+11,Mensajería,4
+11,Redes Sociales,15
+11,Juego,7
+11,Mensajería,9
+11,Juego,8
+11,Juego,6
+11,Mensajería,14
+11,Juego,6
+11,Mensajería,9
+11,Juego,1
+11,Mensajería,9
+11,Redes Sociales,9
+11,Mensajería,6
+11,Mensajería,2
+11,Mensajería,10
+11,Redes Sociales,12
+11,Juego,15
+11,Redes Sociales,6
+11,Mensajería,13
+11,Redes Sociales,14
+12,Redes Sociales,5
+12,Mensajería,6
+12,Mensajería,3
+12,Mensajería,9
+12,Redes Sociales,8
+12,Juego,6
+12,Redes Sociales,4
+12,Juego,11
+12,Mensajería,15
+12,Mensajería,10
+12,Redes Sociales,2
+12,Juego,12
+12,Mensajería,3
+12,Juego,13
+12,Redes Sociales,10
+12,Juego,4
+12,Mensajería,6
+12,Redes Sociales,2
+12,Mensajería,7
+12,Juego,14
+12,Redes Sociales,12
+12,Redes Sociales,5
+12,Redes Sociales,2
+12,Mensajería,12
+12,Redes Sociales,7
+12,Juego,4
+12,Redes Sociales,8
+12,Mensajería,3
+12,Juego,13
+12,Mensajería,8
+12,Redes Sociales,10
+12,Mensajería,4
+12,Mensajería,3
+12,Mensajería,3
+12,Redes Sociales,1
+12,Mensajería,15
+12,Mensajería,10
+12,Mensajería,11
+12,Juego,6
+12,Mensajería,14
+12,Redes Sociales,8
+12,Redes Sociales,9
+12,Redes Sociales,11
+12,Redes Sociales,12
+12,Redes Sociales,13
+12,Redes Sociales,4
+12,Juego,6
+12,Redes Sociales,13
+12,Redes Sociales,4
+12,Juego,11
+12,Juego,7
+12,Juego,7
+12,Juego,11
+12,Juego,6
+12,Juego,1
+12,Juego,3
+12,Redes Sociales,13
+12,Redes Sociales,4
+12,Mensajería,8
+12,Redes Sociales,11
+12,Redes Sociales,5
+12,Mensajería,8
+12,Mensajería,12
+12,Juego,14
+12,Redes Sociales,11
+12,Juego,6
+12,Juego,3
+12,Juego,4
+12,Mensajería,9
+12,Redes Sociales,4
+12,Juego,10
+12,Mensajería,4
+12,Redes Sociales,6
+12,Mensajería,1
+12,Juego,7
+12,Juego,9
+12,Mensajería,15
+12,Mensajería,2
+12,Mensajería,6
+12,Redes Sociales,7
+12,Mensajería,9
+12,Mensajería,8
+12,Mensajería,13
+12,Redes Sociales,10
+12,Mensajería,15
+12,Redes Sociales,7
+12,Redes Sociales,5
+12,Redes Sociales,8
+12,Juego,15
+12,Mensajería,7
+12,Mensajería,4
+12,Redes Sociales,12
+12,Juego,2
+12,Redes Sociales,3
+12,Mensajería,13
+12,Redes Sociales,12
+12,Mensajería,3
+12,Mensajería,9
+12,Juego,11
+12,Redes Sociales,13
+13,Redes Sociales,3
+13,Mensajería,14
+13,Juego,2
+13,Mensajería,10
+13,Juego,6
+13,Redes Sociales,5
+13,Juego,3
+13,Redes Sociales,14
+13,Juego,2
+13,Redes Sociales,13
+13,Mensajería,3
+13,Redes Sociales,12
+13,Redes Sociales,5
+13,Juego,15
+13,Redes Sociales,2
+13,Mensajería,2
+13,Juego,9
+13,Mensajería,10
+13,Redes Sociales,4
+13,Redes Sociales,9
+13,Juego,1
+13,Juego,9
+13,Redes Sociales,13
+13,Redes Sociales,2
+13,Mensajería,8
+13,Mensajería,15
+13,Juego,13
+13,Juego,10
+13,Redes Sociales,3
+13,Redes Sociales,4
+13,Mensajería,5
+13,Mensajería,4
+13,Mensajería,8
+13,Juego,9
+13,Redes Sociales,9
+13,Redes Sociales,8
+13,Juego,8
+13,Redes Sociales,13
+13,Mensajería,3
+13,Juego,9
+13,Juego,4
+13,Juego,8
+13,Redes Sociales,5
+13,Mensajería,4
+13,Mensajería,6
+13,Mensajería,4
+13,Mensajería,4
+13,Juego,1
+13,Mensajería,10
+13,Redes Sociales,4
+13,Redes Sociales,1
+13,Juego,12
+13,Juego,10
+13,Juego,2
+13,Redes Sociales,7
+13,Juego,14
+13,Juego,6
+13,Mensajería,7
+13,Redes Sociales,5
+13,Redes Sociales,5
+13,Mensajería,11
+13,Redes Sociales,8
+13,Redes Sociales,15
+13,Redes Sociales,5
+13,Redes Sociales,14
+13,Mensajería,1
+13,Juego,5
+13,Redes Sociales,10
+13,Juego,3
+13,Redes Sociales,12
+13,Redes Sociales,2
+13,Redes Sociales,11
+13,Redes Sociales,13
+13,Redes Sociales,14
+13,Mensajería,14
+13,Mensajería,11
+13,Juego,2
+13,Mensajería,3
+13,Redes Sociales,15
+13,Mensajería,11
+13,Mensajería,15
+13,Redes Sociales,8
+13,Mensajería,4
+13,Mensajería,2
+13,Mensajería,12
+13,Redes Sociales,14
+13,Redes Sociales,12
+13,Mensajería,7
+13,Mensajería,1
+13,Juego,6
+13,Mensajería,3
+13,Mensajería,8
+13,Mensajería,12
+13,Juego,7
+13,Mensajería,9
+13,Mensajería,3
+13,Juego,5
+13,Mensajería,5
+13,Juego,1
+13,Mensajería,15
+14,Redes Sociales,5
+14,Redes Sociales,10
+14,Redes Sociales,8
+14,Juego,5
+14,Redes Sociales,13
+14,Mensajería,1
+14,Redes Sociales,13
+14,Juego,9
+14,Redes Sociales,5
+14,Mensajería,15
+14,Mensajería,14
+14,Mensajería,3
+14,Juego,15
+14,Juego,2
+14,Juego,4
+14,Juego,13
+14,Mensajería,6
+14,Mensajería,11
+14,Juego,10
+14,Mensajería,7
+14,Mensajería,2
+14,Juego,13
+14,Mensajería,10
+14,Redes Sociales,1
+14,Juego,11
+14,Redes Sociales,5
+14,Redes Sociales,15
+14,Redes Sociales,6
+14,Redes Sociales,15
+14,Juego,10
+14,Juego,14
+14,Juego,12
+14,Redes Sociales,9
+14,Redes Sociales,7
+14,Mensajería,5
+14,Juego,1
+14,Mensajería,3
+14,Mensajería,13
+14,Juego,9
+14,Juego,2
+14,Redes Sociales,12
+14,Juego,12
+14,Mensajería,5
+14,Mensajería,14
+14,Mensajería,10
+14,Juego,2
+14,Juego,14
+14,Juego,15
+14,Redes Sociales,3
+14,Mensajería,9
+14,Juego,4
+14,Juego,15
+14,Redes Sociales,2
+14,Mensajería,2
+14,Juego,2
+14,Redes Sociales,12
+14,Juego,13
+14,Redes Sociales,7
+14,Juego,4
+14,Redes Sociales,12
+14,Mensajería,9
+14,Juego,12
+14,Redes Sociales,11
+14,Redes Sociales,4
+14,Mensajería,8
+14,Redes Sociales,2
+14,Mensajería,7
+14,Mensajería,6
+14,Redes Sociales,6
+14,Mensajería,2
+14,Mensajería,14
+14,Juego,3
+14,Juego,2
+14,Juego,3
+14,Juego,11
+14,Redes Sociales,12
+14,Mensajería,14
+14,Mensajería,14
+14,Juego,14
+14,Redes Sociales,8
+14,Redes Sociales,10
+14,Mensajería,14
+14,Redes Sociales,6
+14,Juego,14
+14,Mensajería,7
+14,Mensajería,6
+14,Redes Sociales,3
+14,Juego,9
+14,Mensajería,14
+14,Redes Sociales,11
+14,Juego,5
+14,Juego,13
+14,Mensajería,12
+14,Redes Sociales,2
+14,Mensajería,2
+14,Mensajería,7
+14,Juego,6
+14,Redes Sociales,4
+14,Juego,11
+14,Redes Sociales,7
+15,Juego,9
+15,Redes Sociales,5
+15,Redes Sociales,14
+15,Mensajería,5
+15,Redes Sociales,8
+15,Juego,3
+15,Juego,3
+15,Redes Sociales,10
+15,Juego,10
+15,Mensajería,14
+15,Redes Sociales,11
+15,Redes Sociales,7
+15,Mensajería,15
+15,Redes Sociales,5
+15,Mensajería,7
+15,Juego,7
+15,Juego,1
+15,Juego,13
+15,Juego,11
+15,Mensajería,2
+15,Juego,14
+15,Juego,4
+15,Redes Sociales,7
+15,Redes Sociales,1
+15,Redes Sociales,1
+15,Mensajería,8
+15,Redes Sociales,9
+15,Juego,15
+15,Mensajería,12
+15,Mensajería,10
+15,Redes Sociales,13
+15,Redes Sociales,1
+15,Redes Sociales,7
+15,Redes Sociales,9
+15,Juego,7
+15,Redes Sociales,3
+15,Redes Sociales,3
+15,Juego,2
+15,Mensajería,14
+15,Mensajería,7
+15,Mensajería,4
+15,Mensajería,5
+15,Redes Sociales,10
+15,Redes Sociales,15
+15,Juego,5
+15,Redes Sociales,6
+15,Juego,13
+15,Mensajería,14
+15,Redes Sociales,14
+15,Mensajería,2
+15,Juego,13
+15,Redes Sociales,13
+15,Redes Sociales,5
+15,Juego,15
+15,Mensajería,1
+15,Juego,8
+15,Mensajería,6
+15,Juego,4
+15,Redes Sociales,10
+15,Mensajería,2
+15,Juego,15
+15,Juego,14
+15,Redes Sociales,12
+15,Mensajería,13
+15,Redes Sociales,3
+15,Redes Sociales,3
+15,Redes Sociales,13
+15,Redes Sociales,12
+15,Mensajería,13
+15,Redes Sociales,9
+15,Mensajería,6
+15,Redes Sociales,6
+15,Juego,9
+15,Juego,4
+15,Mensajería,8
+15,Mensajería,14
+15,Juego,7
+15,Mensajería,9
+15,Redes Sociales,5
+15,Juego,5
+15,Redes Sociales,4
+15,Juego,6
+15,Redes Sociales,5
+15,Redes Sociales,5
+15,Mensajería,5
+15,Redes Sociales,3
+15,Juego,8
+15,Redes Sociales,11
+15,Mensajería,9
+15,Mensajería,11
+15,Redes Sociales,8
+15,Juego,9
+15,Mensajería,4
+15,Mensajería,15
+15,Redes Sociales,12
+15,Juego,2
+15,Mensajería,4
+15,Redes Sociales,4
+15,Mensajería,4
+15,Redes Sociales,3
+16,Juego,4
+16,Mensajería,6
+16,Redes Sociales,10
+16,Redes Sociales,10
+16,Redes Sociales,1
+16,Juego,5
+16,Mensajería,3
+16,Redes Sociales,9
+16,Mensajería,5
+16,Mensajería,4
+16,Redes Sociales,13
+16,Mensajería,1
+16,Redes Sociales,2
+16,Juego,4
+16,Juego,9
+16,Redes Sociales,8
+16,Redes Sociales,14
+16,Mensajería,12
+16,Juego,12
+16,Juego,10
+16,Mensajería,2
+16,Redes Sociales,8
+16,Mensajería,15
+16,Mensajería,13
+16,Juego,2
+16,Redes Sociales,5
+16,Redes Sociales,1
+16,Juego,7
+16,Redes Sociales,12
+16,Redes Sociales,7
+16,Mensajería,8
+16,Juego,6
+16,Redes Sociales,10
+16,Redes Sociales,5
+16,Juego,2
+16,Juego,2
+16,Redes Sociales,5
+16,Juego,3
+16,Juego,9
+16,Mensajería,13
+16,Juego,11
+16,Redes Sociales,2
+16,Mensajería,1
+16,Redes Sociales,14
+16,Mensajería,1
+16,Juego,4
+16,Juego,2
+16,Juego,13
+16,Redes Sociales,5
+16,Juego,14
+16,Redes Sociales,13
+16,Redes Sociales,6
+16,Juego,4
+16,Mensajería,6
+16,Redes Sociales,6
+16,Juego,3
+16,Mensajería,13
+16,Juego,8
+16,Redes Sociales,5
+16,Mensajería,10
+16,Mensajería,15
+16,Redes Sociales,11
+16,Mensajería,13
+16,Juego,8
+16,Juego,4
+16,Redes Sociales,12
+16,Redes Sociales,2
+16,Juego,11
+16,Redes Sociales,5
+16,Juego,10
+16,Redes Sociales,6
+16,Juego,12
+16,Redes Sociales,4
+16,Mensajería,10
+16,Redes Sociales,2
+16,Redes Sociales,10
+16,Juego,6
+16,Redes Sociales,1
+16,Redes Sociales,2
+16,Redes Sociales,8
+16,Juego,4
+16,Redes Sociales,6
+16,Mensajería,1
+16,Juego,4
+16,Redes Sociales,8
+16,Juego,7
+16,Juego,5
+16,Redes Sociales,3
+16,Redes Sociales,8
+16,Mensajería,12
+16,Redes Sociales,15
+16,Juego,10
+16,Redes Sociales,7
+16,Redes Sociales,8
+16,Redes Sociales,1
+16,Juego,11
+16,Redes Sociales,9
+16,Redes Sociales,4
+16,Juego,5
+16,Mensajería,12
+17,Juego,2
+17,Juego,4
+17,Mensajería,7
+17,Juego,3
+17,Mensajería,14
+17,Juego,3
+17,Juego,8
+17,Juego,12
+17,Mensajería,9
+17,Redes Sociales,7
+17,Mensajería,1
+17,Redes Sociales,1
+17,Mensajería,3
+17,Redes Sociales,7
+17,Mensajería,12
+17,Juego,5
+17,Mensajería,2
+17,Juego,14
+17,Redes Sociales,5
+17,Redes Sociales,5
+17,Juego,14
+17,Juego,14
+17,Redes Sociales,14
+17,Redes Sociales,2
+17,Mensajería,11
+17,Juego,12
+17,Juego,1
+17,Juego,7
+17,Redes Sociales,4
+17,Mensajería,15
+17,Juego,15
+17,Mensajería,12
+17,Mensajería,11
+17,Juego,8
+17,Redes Sociales,2
+17,Mensajería,7
+17,Redes Sociales,11
+17,Mensajería,4
+17,Mensajería,6
+17,Juego,13
+17,Juego,1
+17,Mensajería,9
+17,Juego,7
+17,Juego,5
+17,Juego,2
+17,Mensajería,11
+17,Redes Sociales,14
+17,Juego,9
+17,Juego,5
+17,Mensajería,14
+17,Juego,11
+17,Mensajería,13
+17,Redes Sociales,6
+17,Juego,1
+17,Mensajería,9
+17,Juego,13
+17,Mensajería,4
+17,Juego,8
+17,Mensajería,14
+17,Mensajería,15
+17,Mensajería,13
+17,Redes Sociales,10
+17,Mensajería,12
+17,Mensajería,10
+17,Redes Sociales,15
+17,Juego,13
+17,Mensajería,1
+17,Mensajería,5
+17,Mensajería,14
+17,Juego,12
+17,Mensajería,6
+17,Redes Sociales,13
+17,Mensajería,10
+17,Mensajería,6
+17,Mensajería,7
+17,Redes Sociales,1
+17,Redes Sociales,1
+17,Redes Sociales,14
+17,Juego,15
+17,Mensajería,7
+17,Juego,1
+17,Redes Sociales,15
+17,Redes Sociales,9
+17,Redes Sociales,6
+17,Redes Sociales,2
+17,Mensajería,8
+17,Juego,11
+17,Juego,10
+17,Juego,13
+17,Juego,10
+17,Mensajería,9
+17,Juego,6
+17,Juego,10
+17,Redes Sociales,14
+17,Redes Sociales,3
+17,Juego,5
+17,Juego,11
+17,Mensajería,10
+17,Mensajería,8
+17,Juego,6
+18,Redes Sociales,2
+18,Mensajería,7
+18,Redes Sociales,14
+18,Redes Sociales,14
+18,Mensajería,13
+18,Mensajería,9
+18,Redes Sociales,2
+18,Redes Sociales,4
+18,Redes Sociales,12
+18,Mensajería,3
+18,Juego,5
+18,Mensajería,9
+18,Juego,15
+18,Juego,3
+18,Redes Sociales,8
+18,Redes Sociales,13
+18,Redes Sociales,4
+18,Redes Sociales,12
+18,Juego,3
+18,Mensajería,13
+18,Mensajería,14
+18,Juego,13
+18,Juego,13
+18,Mensajería,12
+18,Juego,13
+18,Redes Sociales,14
+18,Redes Sociales,4
+18,Mensajería,13
+18,Redes Sociales,7
+18,Redes Sociales,4
+18,Redes Sociales,2
+18,Juego,1
+18,Juego,3
+18,Mensajería,15
+18,Juego,10
+18,Juego,3
+18,Redes Sociales,1
+18,Juego,9
+18,Redes Sociales,13
+18,Mensajería,11
+18,Redes Sociales,3
+18,Mensajería,3
+18,Juego,1
+18,Redes Sociales,5
+18,Juego,14
+18,Redes Sociales,8
+18,Mensajería,7
+18,Redes Sociales,15
+18,Mensajería,11
+18,Mensajería,1
+18,Mensajería,13
+18,Juego,6
+18,Redes Sociales,5
+18,Mensajería,10
+18,Redes Sociales,7
+18,Redes Sociales,12
+18,Juego,12
+18,Mensajería,2
+18,Juego,8
+18,Mensajería,4
+18,Redes Sociales,10
+18,Redes Sociales,5
+18,Juego,8
+18,Juego,6
+18,Juego,1
+18,Juego,2
+18,Juego,4
+18,Juego,1
+18,Juego,13
+18,Mensajería,6
+18,Juego,4
+18,Juego,8
+18,Mensajería,13
+18,Mensajería,4
+18,Juego,5
+18,Redes Sociales,14
+18,Redes Sociales,9
+18,Redes Sociales,8
+18,Mensajería,7
+18,Mensajería,10
+18,Juego,15
+18,Redes Sociales,12
+18,Redes Sociales,7
+18,Mensajería,7
+18,Juego,14
+18,Juego,14
+18,Juego,6
+18,Redes Sociales,6
+18,Redes Sociales,2
+18,Juego,4
+18,Mensajería,1
+18,Juego,10
+18,Mensajería,15
+18,Juego,14
+18,Mensajería,11
+18,Redes Sociales,2
+18,Redes Sociales,3
+18,Mensajería,2
+18,Redes Sociales,14
+18,Redes Sociales,7
+19,Redes Sociales,9
+19,Juego,8
+19,Mensajería,8
+19,Mensajería,12
+19,Mensajería,3
+19,Redes Sociales,11
+19,Juego,1
+19,Redes Sociales,3
+19,Mensajería,13
+19,Juego,15
+19,Juego,6
+19,Redes Sociales,9
+19,Mensajería,2
+19,Mensajería,3
+19,Mensajería,1
+19,Mensajería,9
+19,Redes Sociales,7
+19,Mensajería,3
+19,Mensajería,7
+19,Juego,10
+19,Juego,8
+19,Mensajería,8
+19,Juego,11
+19,Redes Sociales,11
+19,Redes Sociales,12
+19,Mensajería,4
+19,Juego,6
+19,Juego,4
+19,Mensajería,3
+19,Redes Sociales,1
+19,Mensajería,11
+19,Redes Sociales,1
+19,Mensajería,7
+19,Redes Sociales,10
+19,Juego,1
+19,Juego,7
+19,Redes Sociales,11
+19,Juego,11
+19,Redes Sociales,4
+19,Mensajería,1
+19,Redes Sociales,12
+19,Juego,5
+19,Juego,6
+19,Redes Sociales,2
+19,Mensajería,4
+19,Juego,12
+19,Juego,6
+19,Redes Sociales,6
+19,Mensajería,4
+19,Redes Sociales,1
+19,Mensajería,3
+19,Redes Sociales,15
+19,Redes Sociales,13
+19,Juego,5
+19,Mensajería,9
+19,Redes Sociales,10
+19,Juego,3
+19,Mensajería,3
+19,Juego,15
+19,Juego,7
+19,Redes Sociales,9
+19,Mensajería,3
+19,Redes Sociales,4
+19,Redes Sociales,5
+19,Redes Sociales,1
+19,Mensajería,13
+19,Redes Sociales,14
+19,Redes Sociales,4
+19,Juego,9
+19,Mensajería,2
+19,Redes Sociales,4
+19,Juego,7
+19,Redes Sociales,2
+19,Redes Sociales,5
+19,Mensajería,2
+19,Mensajería,4
+19,Juego,13
+19,Mensajería,1
+19,Juego,10
+19,Juego,3
+19,Mensajería,1
+19,Mensajería,9
+19,Redes Sociales,5
+19,Redes Sociales,13
+19,Juego,8
+19,Mensajería,6
+19,Redes Sociales,12
+19,Mensajería,4
+19,Juego,15
+19,Mensajería,6
+19,Juego,7
+19,Redes Sociales,2
+19,Redes Sociales,3
+19,Mensajería,11
+19,Juego,7
+19,Juego,1
+19,Mensajería,12
+19,Mensajería,15
+19,Redes Sociales,6
+19,Juego,1
+20,Redes Sociales,11
+20,Redes Sociales,10
+20,Juego,1
+20,Mensajería,4
+20,Mensajería,11
+20,Juego,7
+20,Redes Sociales,11
+20,Redes Sociales,1
+20,Mensajería,2
+20,Mensajería,1
+20,Redes Sociales,3
+20,Mensajería,5
+20,Juego,5
+20,Redes Sociales,3
+20,Mensajería,14
+20,Redes Sociales,13
+20,Mensajería,4
+20,Juego,11
+20,Redes Sociales,15
+20,Juego,10
+20,Redes Sociales,3
+20,Redes Sociales,2
+20,Mensajería,8
+20,Juego,1
+20,Juego,4
+20,Mensajería,12
+20,Redes Sociales,11
+20,Mensajería,8
+20,Mensajería,1
+20,Redes Sociales,10
+20,Juego,15
+20,Mensajería,11
+20,Redes Sociales,14
+20,Redes Sociales,5
+20,Redes Sociales,6
+20,Redes Sociales,9
+20,Redes Sociales,14
+20,Juego,10
+20,Redes Sociales,14
+20,Juego,3
+20,Redes Sociales,1
+20,Mensajería,1
+20,Juego,13
+20,Mensajería,13
+20,Juego,8
+20,Redes Sociales,12
+20,Juego,14
+20,Juego,10
+20,Juego,15
+20,Redes Sociales,3
+20,Juego,10
+20,Juego,8
+20,Mensajería,7
+20,Redes Sociales,9
+20,Juego,8
+20,Mensajería,10
+20,Juego,8
+20,Redes Sociales,1
+20,Mensajería,14
+20,Juego,3
+20,Mensajería,1
+20,Juego,7
+20,Juego,14
+20,Mensajería,4
+20,Juego,3
+20,Redes Sociales,8
+20,Redes Sociales,10
+20,Juego,1
+20,Mensajería,11
+20,Juego,6
+20,Redes Sociales,12
+20,Mensajería,3
+20,Juego,10
+20,Redes Sociales,2
+20,Redes Sociales,10
+20,Juego,8
+20,Redes Sociales,13
+20,Redes Sociales,4
+20,Redes Sociales,15
+20,Redes Sociales,4
+20,Juego,8
+20,Mensajería,7
+20,Juego,8
+20,Juego,4
+20,Redes Sociales,7
+20,Juego,6
+20,Mensajería,11
+20,Mensajería,12
+20,Juego,9
+20,Redes Sociales,13
+20,Juego,1
+20,Mensajería,2
+20,Redes Sociales,11
+20,Juego,3
+20,Redes Sociales,9
+20,Mensajería,9
+20,Redes Sociales,7
+20,Mensajería,13
+20,Mensajería,9
+20,Mensajería,14
+21,Juego,8
+21,Juego,4
+21,Redes Sociales,4
+21,Mensajería,15
+21,Redes Sociales,4
+21,Mensajería,5
+21,Redes Sociales,1
+21,Redes Sociales,1
+21,Juego,14
+21,Redes Sociales,9
+21,Mensajería,14
+21,Juego,14
+21,Mensajería,5
+21,Mensajería,8
+21,Juego,15
+21,Redes Sociales,5
+21,Redes Sociales,10
+21,Juego,6
+21,Mensajería,13
+21,Juego,1
+21,Redes Sociales,8
+21,Redes Sociales,1
+21,Redes Sociales,5
+21,Mensajería,3
+21,Mensajería,13
+21,Juego,5
+21,Juego,7
+21,Juego,15
+21,Mensajería,13
+21,Juego,13
+21,Juego,14
+21,Mensajería,7
+21,Juego,9
+21,Redes Sociales,2
+21,Mensajería,12
+21,Juego,14
+21,Mensajería,9
+21,Juego,7
+21,Redes Sociales,9
+21,Mensajería,14
+21,Mensajería,6
+21,Redes Sociales,9
+21,Redes Sociales,15
+21,Mensajería,5
+21,Juego,6
+21,Redes Sociales,11
+21,Redes Sociales,13
+21,Mensajería,5
+21,Juego,1
+21,Juego,3
+21,Juego,9
+21,Mensajería,12
+21,Juego,14
+21,Redes Sociales,9
+21,Mensajería,7
+21,Mensajería,4
+21,Juego,3
+21,Juego,9
+21,Redes Sociales,8
+21,Mensajería,10
+21,Redes Sociales,2
+21,Mensajería,3
+21,Redes Sociales,4
+21,Redes Sociales,13
+21,Redes Sociales,9
+21,Redes Sociales,6
+21,Juego,13
+21,Juego,4
+21,Juego,2
+21,Redes Sociales,7
+21,Redes Sociales,8
+21,Juego,13
+21,Mensajería,6
+21,Juego,1
+21,Mensajería,15
+21,Juego,8
+21,Redes Sociales,8
+21,Juego,8
+21,Juego,3
+21,Mensajería,14
+21,Redes Sociales,11
+21,Juego,10
+21,Juego,12
+21,Redes Sociales,15
+21,Redes Sociales,10
+21,Redes Sociales,9
+21,Redes Sociales,6
+21,Juego,9
+21,Redes Sociales,5
+21,Mensajería,8
+21,Redes Sociales,3
+21,Redes Sociales,2
+21,Mensajería,8
+21,Redes Sociales,7
+21,Mensajería,9
+21,Mensajería,11
+21,Mensajería,10
+21,Redes Sociales,2
+21,Mensajería,5
+21,Mensajería,1
+22,Juego,8
+22,Juego,8
+22,Juego,7
+22,Juego,1
+22,Juego,15
+22,Juego,3
+22,Redes Sociales,10
+22,Juego,3
+22,Juego,1
+22,Mensajería,9
+22,Mensajería,11
+22,Mensajería,3
+22,Mensajería,13
+22,Mensajería,14
+22,Mensajería,4
+22,Redes Sociales,13
+22,Redes Sociales,8
+22,Juego,12
+22,Mensajería,14
+22,Mensajería,9
+22,Mensajería,2
+22,Redes Sociales,6
+22,Redes Sociales,9
+22,Juego,9
+22,Redes Sociales,7
+22,Redes Sociales,5
+22,Redes Sociales,10
+22,Mensajería,12
+22,Juego,4
+22,Juego,11
+22,Redes Sociales,6
+22,Mensajería,9
+22,Redes Sociales,7
+22,Mensajería,3
+22,Redes Sociales,2
+22,Redes Sociales,15
+22,Mensajería,14
+22,Redes Sociales,1
+22,Mensajería,8
+22,Juego,8
+22,Redes Sociales,12
+22,Mensajería,6
+22,Mensajería,3
+22,Juego,15
+22,Juego,5
+22,Juego,15
+22,Redes Sociales,10
+22,Juego,5
+22,Juego,12
+22,Mensajería,14
+22,Juego,8
+22,Redes Sociales,10
+22,Juego,12
+22,Juego,5
+22,Redes Sociales,5
+22,Redes Sociales,13
+22,Redes Sociales,1
+22,Juego,11
+22,Juego,9
+22,Juego,2
+22,Redes Sociales,13
+22,Juego,8
+22,Mensajería,12
+22,Mensajería,4
+22,Juego,3
+22,Redes Sociales,8
+22,Juego,1
+22,Redes Sociales,12
+22,Mensajería,9
+22,Mensajería,14
+22,Juego,1
+22,Juego,12
+22,Mensajería,4
+22,Redes Sociales,13
+22,Mensajería,2
+22,Mensajería,12
+22,Redes Sociales,14
+22,Juego,4
+22,Mensajería,6
+22,Juego,2
+22,Redes Sociales,12
+22,Mensajería,13
+22,Juego,10
+22,Mensajería,13
+22,Redes Sociales,4
+22,Juego,14
+22,Mensajería,3
+22,Mensajería,13
+22,Juego,5
+22,Redes Sociales,13
+22,Redes Sociales,3
+22,Redes Sociales,3
+22,Mensajería,9
+22,Redes Sociales,11
+22,Juego,8
+22,Mensajería,11
+22,Juego,11
+22,Juego,11
+22,Redes Sociales,15
+22,Juego,9
+23,Mensajería,14
+23,Mensajería,6
+23,Mensajería,13
+23,Juego,4
+23,Mensajería,13
+23,Juego,12
+23,Mensajería,3
+23,Juego,3
+23,Mensajería,9
+23,Juego,15
+23,Mensajería,14
+23,Redes Sociales,10
+23,Juego,5
+23,Mensajería,10
+23,Juego,15
+23,Redes Sociales,3
+23,Juego,12
+23,Redes Sociales,4
+23,Mensajería,4
+23,Juego,6
+23,Mensajería,2
+23,Mensajería,2
+23,Mensajería,14
+23,Juego,6
+23,Redes Sociales,2
+23,Mensajería,15
+23,Juego,9
+23,Mensajería,11
+23,Mensajería,3
+23,Redes Sociales,8
+23,Juego,3
+23,Redes Sociales,1
+23,Redes Sociales,15
+23,Mensajería,12
+23,Juego,14
+23,Mensajería,5
+23,Mensajería,3
+23,Redes Sociales,13
+23,Redes Sociales,4
+23,Mensajería,15
+23,Redes Sociales,8
+23,Juego,8
+23,Redes Sociales,7
+23,Redes Sociales,8
+23,Juego,13
+23,Redes Sociales,10
+23,Redes Sociales,11
+23,Mensajería,7
+23,Mensajería,11
+23,Mensajería,8
+23,Mensajería,7
+23,Mensajería,1
+23,Mensajería,5
+23,Mensajería,12
+23,Juego,6
+23,Mensajería,12
+23,Mensajería,11
+23,Redes Sociales,3
+23,Juego,5
+23,Mensajería,6
+23,Juego,10
+23,Redes Sociales,1
+23,Redes Sociales,15
+23,Juego,2
+23,Redes Sociales,15
+23,Redes Sociales,15
+23,Redes Sociales,10
+23,Juego,9
+23,Juego,5
+23,Redes Sociales,15
+23,Redes Sociales,6
+23,Redes Sociales,9
+23,Redes Sociales,9
+23,Redes Sociales,8
+23,Juego,13
+23,Mensajería,2
+23,Mensajería,14
+23,Mensajería,11
+23,Redes Sociales,8
+23,Juego,5
+23,Juego,5
+23,Mensajería,15
+23,Juego,13
+23,Mensajería,3
+23,Juego,4
+23,Redes Sociales,13
+23,Mensajería,1
+23,Juego,15
+23,Juego,6
+23,Juego,8
+23,Redes Sociales,5
+23,Mensajería,6
+23,Mensajería,4
+23,Juego,9
+23,Mensajería,15
+23,Mensajería,3
+23,Juego,11
+23,Juego,2
+23,Mensajería,8
+23,Redes Sociales,14
